@@ -1,0 +1,8 @@
+django>=3.8.0,<=3.11.0
+djangorestframework
+djangorestframework_simplejwt
+djoser
+mysql
+mysqlclient
+python-dotenv
+
